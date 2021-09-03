@@ -15,15 +15,15 @@ body {
   text-shadow: 0 .2px .3px rgba(0, 0, 0, 0.353);
   background-size: cover;
 }
+
+img {
+  max-width: 100%;
+}
 .audio{
   margin: 2rem 0 1rem 0;
   margin-top: 30px;
   opacity: .5;
 }
-img {
-  max-width: 100%;
-}
-
 .box {
   background-color: white;
   box-shadow: 0 3px 6px rgba(0,0,0, .1);
