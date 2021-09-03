@@ -15,7 +15,11 @@ body {
   text-shadow: 0 .2px .3px rgba(0, 0, 0, 0.353);
   background-size: cover;
 }
-
+.audio{
+  margin: 2rem 0 1rem 0;
+  margin-top: 30px;
+  opacity: .5;
+}
 img {
   max-width: 100%;
 }
@@ -26,6 +30,7 @@ img {
   padding: 1rem;
   width: 60%;
   border-radius: 26px;
+  opacity: .8;
 }
 
 .about {
